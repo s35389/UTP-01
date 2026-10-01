@@ -1,5 +1,7 @@
 //todo: musimy dodać 2 brakujące klasy!!!
 
+// OK, ja dodam ‘Adder‘, a s##### doda ‘Subtractor‘.
+
 public class Main {
     public static void main(String[] args) {
 
